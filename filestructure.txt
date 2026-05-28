@@ -1,8 +1,6 @@
 |-- .gitignore
 |-- ai_plastic_bottle
     |-- .gitignore
-    |-- .pio
-        |-- libdeps
     |-- lib
         |-- ei-plastic-bottle
             |-- examples
